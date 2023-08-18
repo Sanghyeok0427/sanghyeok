@@ -341,6 +341,7 @@ public class ProfessorController {
 			req.setAttribute("url", "insertGrade.do");
 			return "message";
 		}
+		//ㅋㅋ
 	}
 
 }
